@@ -44,15 +44,16 @@ h4 {
   padding-right: 15px;
 }
 
-@media only screen and (max-width: 480px) {
+/* @media only screen and (max-width: 480px) {
   .container span {
     display: none;
   }
-  
-  /*.company img {
-  (i need to make the logo display in the center???)
-  } */
-}
+
+  .company .container img {
+  justify-content: center;
+  }
+} */
+
 
 /* Main Banner */
 
